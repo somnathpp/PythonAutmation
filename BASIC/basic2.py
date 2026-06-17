@@ -1,2 +1,2 @@
 print("Hello World")
-print("cahnges to project")
+print("cahnges to project edited")
