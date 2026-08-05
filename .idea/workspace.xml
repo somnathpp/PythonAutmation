@@ -1,206 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="ALL" />
+    <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d938549-fde2-4fd5-800a-a4c39e1c813d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProjec.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/APPLOCATION_COMMAND.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/BROWSER_COMMAND.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/CONDITIONAL_COMMANDS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/ElementVsElement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/HandleBrokenlink.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/HandleLinks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/NAVIGATIONAL_COMMANDS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/WaitCommands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/checkbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/DST_PRACTICALS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/ExceptionList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/FirstTestCase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/SecondTestCase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/UserDefinedFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/abstracts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/inbuiltfunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/inheritence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/numpy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/stringoperation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Configurations/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GAME/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GAME/home.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GAME/sub_directrty/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GAME/sub_directrty/sub1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session2/Locators1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/readProperties.py" afterDir="false" />
+    <list default="true" id="4d938549-fde2-4fd5-800a-a4c39e1c813d" name="Changes" comment="comited on 5 aug 2026">
+      <change afterPath="$PROJECT_DIR$/GAME/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7,
-  &quot;fromUser&quot;: false
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/somnathpp/PythonAutmation.git&quot;,
+    &quot;accountId&quot;: &quot;2846bce0-e179-4f20-ac2d-a8dd9c5e4730&quot;
+  }
 }</component>
-  <component name="ProjectId" id="3GIaXQAwT4tn4uhKlqgGqihyeKo" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.APPLOCATION_COMMAND.executor": "Run",
-    "Python.BROWSER_COMMAND.executor": "Run",
-    "Python.CONDITIONAL_COMMANDS.executor": "Run",
-    "Python.DST_PRACTICALS.executor": "Run",
-    "Python.ElementVsElement.executor": "Run",
-    "Python.ExceptionList.executor": "Run",
-    "Python.FirstTestCase.executor": "Run",
-    "Python.HandleBrokenlink.executor": "Run",
-    "Python.HandleLinks.executor": "Run",
-    "Python.Locators1.executor": "Run",
-    "Python.NAVIGATIONAL_COMMANDS.executor": "Run",
-    "Python.SecondTestCase.executor": "Run",
-    "Python.UserDefinedFunction.executor": "Run",
-    "Python.WaitCommands.executor": "Run",
-    "Python.__init__.executor": "Run",
-    "Python.abstracts.executor": "Run",
-    "Python.checkbox.executor": "Run",
-    "Python.dictionary.executor": "Run",
-    "Python.encapsulation.executor": "Run",
-    "Python.exception.executor": "Run",
-    "Python.inbuiltfunction.executor": "Run",
-    "Python.inheritence.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.numpy.executor": "Run",
-    "Python.polymorphism.executor": "Run",
-    "Python.readProperties.executor": "Run",
-    "Python.set.executor": "Run",
-    "Python.stringoperation.executor": "Run",
-    "Python.sub1.executor": "Run",
-    "Python.tuple.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/admin/PycharmProjects/PythonProjec/Basic",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\admin\PycharmProjects\PythonProjec\Basic" />
-    </key>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="4d938549-fde2-4fd5-800a-a4c39e1c813d" name="Changes" comment="" />
-      <created>1783661575806</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1783661575806</updated>
-      <workItem from="1783661576677" duration="1670000" />
-      <workItem from="1783673825938" duration="487000" />
-      <workItem from="1783680145612" duration="1098000" />
-      <workItem from="1783683738436" duration="7295000" />
-      <workItem from="1783922184061" duration="296000" />
-      <workItem from="1783935978929" duration="469000" />
-      <workItem from="1783940045552" duration="2172000" />
-      <workItem from="1783943435237" duration="11116000" />
-      <workItem from="1784023595748" duration="5589000" />
-      <workItem from="1784094411669" duration="7523000" />
-      <workItem from="1784178247748" duration="14000" />
+    <task id="LOCAL-00001" summary="comited on 5 aug 2026">
+      <option name="closed" value="true" />
+      <created>1785914615547</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1785914615547</updated>
     </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Basic/SecondTestCase.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Basic/FirstTestCase.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Basic/FirstTestCase.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Basic/FirstTestCase.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Basic/FirstTestCase.py</url>
-          <line>44</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/AUTOMATION_COMMANDS/ElementVsElement.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProjec$SecondTestCase.coverage" NAME="SecondTestCase Coverage Results" MODIFIED="1784008593087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
-    <SUITE FILE_PATH="coverage/PythonProjec$polymorphism.coverage" NAME="polymorphism Coverage Results" MODIFIED="1784098770166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
-    <SUITE FILE_PATH="coverage/PythonProjec$numpy.coverage" NAME="numpy Coverage Results" MODIFIED="1784029139840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
-    <SUITE FILE_PATH="coverage/PythonProjec$UserDefinedFunction.coverage" NAME="UserDefinedFunction Coverage Results" MODIFIED="1784028458927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
-    <SUITE FILE_PATH="coverage/PythonProjec$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1784026134998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
-    <SUITE FILE_PATH="coverage/PythonProjec$inbuiltfunction.coverage" NAME="inbuiltfunction Coverage Results" MODIFIED="1784027029626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
-    <SUITE FILE_PATH="coverage/PythonProjec$abstracts.coverage" NAME="abstracts Coverage Results" MODIFIED="1783674245301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
-    <SUITE FILE_PATH="coverage/PythonProjec$FirstTestCase.coverage" NAME="FirstTestCase Coverage Results" MODIFIED="1784007773185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
-    <SUITE FILE_PATH="coverage/PythonProjec$inheritence.coverage" NAME="inheritence Coverage Results" MODIFIED="1784009486840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
-    <SUITE FILE_PATH="coverage/PythonProjec$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1784011380802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
-    <SUITE FILE_PATH="coverage/PythonProjec$readProperties.coverage" NAME="readProperties Coverage Results" MODIFIED="1784101949243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utilities" />
-    <SUITE FILE_PATH="coverage/PythonProjec$encapsulation.coverage" NAME="encapsulation Coverage Results" MODIFIED="1783680569860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
-    <SUITE FILE_PATH="coverage/PythonProjec$set.coverage" NAME="set Coverage Results" MODIFIED="1784023615406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comited on 5 aug 2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="comited on 5 aug 2026" />
   </component>
 </project>
