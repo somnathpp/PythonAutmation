@@ -1,0 +1,38 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+import time
+driver=webdriver.Edge()
+driver.get('https://testautomationpractice.blogspot.com/')
+driver.maximize_window()
+time.sleep(5)
+# driver.find_element(By.XPATH,'//button[@id="alertBtn"]').click()
+# time.sleep(5)
+# driver.switch_to.alert.accept()
+# time.sleep(5)
+# driver.find_element(By.XPATH,'//input[@id="Wikipedia1_wikipedia-search-input"]').send_keys('selenium')
+# time.sleep(5)
+# driver.find_element(By.XPATH,'//input[@class="wikipedia-search-button"]').click()
+# time.sleep(5)
+# driver.find_element(By.LINK_TEXT,'Selenium').click()
+# time.sleep(2)
+# driver.find_element(By.LINK_TEXT,'Selenium in biology').click()
+# time.sleep(2)
+# driver.find_element(By.LINK_TEXT,'Selenium (software)').click()
+# time.sleep(2)
+# driver.find_element(By.LINK_TEXT,'Selenium disulfide').click()
+# time.sleep(2)
+# driver.find_element(By.LINK_TEXT,'Selenium dioxide').click()
+# time.sleep(20)
+# winids=driver.window_handles
+# for win in winids:
+#      driver.switch_to.window(win)
+#      print(driver.title)
+# driver.find_element(By.XPATH,'//button[@id="confirmBtn"]').click()
+# time.sleep(5)
+# # driver.switch_to.alert.accept()
+# driver.switch_to.alert.dismiss()
+# time.sleep(5)
+driver.find_element(By.XPATH,'//button[@id="promptBtn"]').click()
+time.sleep(5)
+driver.switch_to.alert
+time.sleep(5)

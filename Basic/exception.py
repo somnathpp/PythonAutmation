@@ -29,9 +29,19 @@
 #     withdraw(-500)
 # except ValueError as e:
 #     print(f"Exception: {e}")
+# id input! Please enter a valid integer. :")
+n1=int(input('Enter the Dividend  number n1  :'))
+# n2=int(input('Enter the Diviser  number n2  : '))
 try:
-    num = int(input("Enter a number: "))
-    result = 10 / num
+    n2='a'
+    n3=n1/n2
+    print('Division of n1/n2 & quotient :',n3)
+# except Exception as e:
+#     # print(e)
+#     print('Division Error :', e)
+except ZeroDivisionError as e:
+    print(e)
+
 except Exception as e:
- print('Exception :',e)
- print("Invalid input! Please enter a valid integer. :")
+    print(e)
+    # print('division by zero')
