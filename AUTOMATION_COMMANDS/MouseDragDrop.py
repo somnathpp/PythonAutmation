@@ -10,3 +10,4 @@ src=driver.find_element(By.ID,'myImage')
 tgt=driver.find_element(By.ID,"targetDiv")
 ac.drag_and_drop(src,tgt).perform()
 time.sleep(15)
+# https://www.jqueryscript.net/demo/Price-Range-Slider-jQuery-UI/
