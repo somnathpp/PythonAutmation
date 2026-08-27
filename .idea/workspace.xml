@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d938549-fde2-4fd5-800a-a4c39e1c813d" name="Changes" comment="on 18 aug 2026">
-      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/FileDownload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/KeyboardAction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/MouseScrolling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/MouseSlider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BASIC/nm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/HandleCookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/HeadlessTesting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/UploadFile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AUTOMATION_COMMANDS/MouseDragDrop.py" beforeDir="false" afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/MouseDragDrop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AUTOMATION_COMMANDS/MousrRightClick.py" beforeDir="false" afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/MousrRightClick.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTOMATION_COMMANDS/FileDownload.py" beforeDir="false" afterPath="$PROJECT_DIR$/AUTOMATION_COMMANDS/FileDownload.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +55,12 @@
     "Python.FileDownload.executor": "Run",
     "Python.HandleAlert_Popups.executor": "Run",
     "Python.HandleAuthenticPopup.executor": "Run",
+    "Python.HandleCookies.executor": "Run",
     "Python.HandleDropdown.executor": "Run",
     "Python.HandleTable1.executor": "Run",
     "Python.HandleWindows.executor": "Run",
     "Python.HandleinnerFrame.executor": "Run",
+    "Python.HeadlessTesting.executor": "Run",
     "Python.KeyboardAction.executor": "Run",
     "Python.MouseDoubleClick.executor": "Run",
     "Python.MouseDragDrop.executor": "Run",
@@ -73,6 +69,7 @@
     "Python.MouseSlider.executor": "Run",
     "Python.MousrRightClick.executor": "Run",
     "Python.StringHandling.executor": "Run",
+    "Python.UploadFile.executor": "Run",
     "Python.dictionary.executor": "Run",
     "Python.exception.executor": "Run",
     "Python.lists.executor": "Run",
@@ -94,7 +91,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="SharedIndexes">
